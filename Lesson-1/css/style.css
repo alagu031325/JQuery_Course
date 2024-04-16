@@ -1,0 +1,11 @@
+/* id selector */
+#textBox{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000;
+    background-color: aliceblue;
+}
+
+#hide_textbox{
+    display: none;
+}
